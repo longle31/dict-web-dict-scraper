@@ -1,5 +1,5 @@
 from flask_restful import Resource
-from cambridge_dictionary_scraper import  CambridgeDictionaryScraper
+from cambridge_dictionary_scraper import CambridgeDictionaryScraper
 
 
 class VocabularyResource(Resource):
